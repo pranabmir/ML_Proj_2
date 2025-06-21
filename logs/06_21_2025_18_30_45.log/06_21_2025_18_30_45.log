@@ -1,9 +1,0 @@
-[ 2025-06-21 18:30:46,987 ] 25 root - INFO - Entered the data ingestion method or component
-[ 2025-06-21 18:30:46,987 ] 28 root - INFO - data read and created dataframe successfully
-[ 2025-06-21 18:30:46,998 ] 32 root - INFO - raw data artifact created successfully
-[ 2025-06-21 18:30:46,998 ] 37 root - INFO - train test artifacts created successfully
-[ 2025-06-21 18:30:46,998 ] 74 root - INFO - read train and test data successfully
-[ 2025-06-21 18:30:46,998 ] 51 root - INFO - Categorical columns: ['gender', 'race_ethnicity', 'parental_level_of_education', 'lunch', 'test_preparation_course']
-[ 2025-06-21 18:30:46,998 ] 52 root - INFO - Numerical columns: ['writing_score', 'reading_score']
-[ 2025-06-21 18:30:47,030 ] 93 root - INFO - Saved preprocessing object.
-[ 2025-06-21 18:32:26,971 ] 95 root - INFO - Best found model on both training and testing dataset
